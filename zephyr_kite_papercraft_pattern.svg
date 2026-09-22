@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="-19.03977 -6.53874 25.25095 17.34981"
+   width="1000"
+   height="687"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="kite_Manual_finish.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs22">
+    <rect
+       x="398.17307"
+       y="604.03125"
+       width="319.62192"
+       height="55.076093"
+       id="rect55" />
+    <rect
+       x="687.99972"
+       y="557.08114"
+       width="209.46973"
+       height="38.824131"
+       id="rect46" />
+    <rect
+       x="508.97268"
+       y="344.11263"
+       width="82.430022"
+       height="20.934609"
+       id="rect24" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1075586"
+     inkscape:cx="478.98143"
+     inkscape:cy="329.55367"
+     inkscape:window-width="1440"
+     inkscape:window-height="903"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg22" />
+  <polygon
+     points="0.0000,0.0000 -6.7851,6.2420 3.3148,4.2440"
+     fill="#7929d2"
+     stroke="#111"
+     stroke-width="0.0556"
+     id="polygon1"
+     style="stroke-width:0.02525445;stroke-dasharray:none" />
+  <polygon
+     points="0.0000,0.0000 3.3148,4.2440 4.6607,-2.6978"
+     fill="#00aeff"
+     stroke="#111"
+     stroke-width="0.0556"
+     id="polygon2"
+     style="stroke-width:0.02525445;stroke-dasharray:none" />
+  <polygon
+     points="0.0000,0.0000 4.6607,-2.6978 -2.0291,-4.9882"
+     fill="#66a9dc"
+     stroke="#111"
+     stroke-width="0.0556"
+     id="polygon3"
+     style="stroke-width:0.02525445;stroke-dasharray:none" />
+  <polygon
+     points="0.0000,0.0000 -2.0291,-4.9882 -8.7921,2.7746"
+     fill="#9454db"
+     stroke="#111"
+     stroke-width="0.0556"
+     id="polygon4"
+     style="stroke-width:0.02525445;stroke-dasharray:none" />
+  <line
+     x1="0.0000"
+     y1="0.0000"
+     x2="3.3148"
+     y2="4.2440"
+     stroke="#555"
+     stroke-width="0.0333"
+     stroke-dasharray="0.505,0.253"
+     id="line4" />
+  <line
+     x1="0.0000"
+     y1="0.0000"
+     x2="4.6607"
+     y2="-2.6978"
+     stroke="#555"
+     stroke-width="0.0333"
+     stroke-dasharray="0.505,0.253"
+     id="line5" />
+  <line
+     x1="0.0000"
+     y1="0.0000"
+     x2="-2.0291"
+     y2="-4.9882"
+     stroke="#555"
+     stroke-width="0.0333"
+     stroke-dasharray="0.505,0.253"
+     id="line6" />
+  <line
+     x1="0.0000"
+     y1="0.0000"
+     x2="-8.7921"
+     y2="2.7746"
+     stroke="#c00"
+     stroke-width="0.0433"
+     stroke-dasharray="0.303,0.152"
+     id="line7" />
+  <polygon
+     points="-17.1774,4.5807 -14.7673,4.2643 -15.0992,6.6550"
+     fill="#af7fe4"
+     stroke="#111"
+     stroke-width="0.0556"
+     id="polygon8"
+     style="stroke-width:0;stroke-dasharray:none" />
+  <polygon
+     points="-15.0992,6.6550 -14.4618,8.8165 -12.3499,7.6842"
+     fill="#9454db"
+     stroke="#111"
+     stroke-width="0.0556"
+     id="polygon10"
+     style="stroke-width:0;stroke-dasharray:none" />
+  <polygon
+     points="-12.3499,7.6842 -11.0462,5.7497 -9.3625,7.3303"
+     fill="#af7fe4"
+     stroke="#111"
+     stroke-width="0.0556"
+     id="polygon12"
+     style="stroke-width:0;stroke-dasharray:none" />
+  <polygon
+     points="-9.3625,7.3303 -7.1711,8.4371 -6.7851,6.2420"
+     fill="#7929d2"
+     stroke="#111"
+     stroke-width="0.0556"
+     id="polygon14"
+     style="stroke-width:0;stroke-dasharray:none" />
+  <line
+     x1="-17.1774"
+     y1="4.5807"
+     x2="-15.0992"
+     y2="6.6550"
+     stroke="#000"
+     stroke-width="0.0073"
+     stroke-dasharray="0.018,0.323"
+     stroke-linecap="round"
+     id="line15" />
+  <line
+     x1="-15.0992"
+     y1="6.6550"
+     x2="-12.3499"
+     y2="7.6842"
+     stroke="#000"
+     stroke-width="0.0073"
+     stroke-dasharray="0.018,0.323"
+     stroke-linecap="round"
+     id="line16" />
+  <line
+     x1="-12.3499"
+     y1="7.6842"
+     x2="-9.3625"
+     y2="7.3303"
+     stroke="#000"
+     stroke-width="0.0073"
+     stroke-dasharray="0.018,0.331"
+     stroke-linecap="round"
+     id="line17" />
+  <line
+     x1="-9.3625"
+     y1="7.3303"
+     x2="-6.7851"
+     y2="6.2420"
+     stroke="#000"
+     stroke-width="0.0073"
+     stroke-dasharray="0.017,0.308"
+     stroke-linecap="round"
+     id="line18" />
+  <text
+     x="3.6829963"
+     y="5.4845428"
+     font-family="sans-serif"
+     font-size="0.2778px"
+     font-weight="bold"
+     text-anchor="end"
+     dominant-baseline="middle"
+     fill="#222222"
+     id="text18">ASSEMBLY NOTES</text>
+  <text
+     x="3.6601944"
+     y="6.4372926"
+     font-family="sans-serif"
+     font-size="0.2px"
+     text-anchor="end"
+     dominant-baseline="middle"
+     fill="#555555"
+     id="text19"
+     dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.06840574"><tspan
+       sodipodi:role="line"
+       id="tspan28"
+       x="3.6601944"
+       y="6.4372926">cut off on dashed lines,</tspan><tspan
+       sodipodi:role="line"
+       id="tspan29"
+       x="3.6601944"
+       y="6.6872926">fold lines in kite a bit upwards</tspan><tspan
+       sodipodi:role="line"
+       x="3.6601944"
+       y="6.9372926"
+       id="tspan30">fold glue triangle also a bit upwards</tspan><tspan
+       sodipodi:role="line"
+       x="3.6601946"
+       y="7.1872926"
+       id="tspan33"
+       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.091207653"
+         id="tspan41"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.091207653"
+           id="tspan40">connect the kite and gluewhite triangle to back side.</tspan></tspan></tspan></text>
+  <text
+     x="3.6255646"
+     y="7.4971237"
+     font-family="sans-serif"
+     font-size="0.2px"
+     text-anchor="end"
+     dominant-baseline="middle"
+     fill="#555555"
+     id="text19-9"
+     dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0"><tspan
+       sodipodi:role="line"
+       x="3.6255646"
+       y="7.4971237"
+       id="tspan33-7">glue a thread on the back side from the top angle<tspan
+   id="tspan41-3"></tspan></tspan><tspan
+       sodipodi:role="line"
+       x="3.6255648"
+       y="7.7471237"
+       id="tspan50"><tspan
+         id="tspan51">to the start of the tail and all along the tail</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="3.6255646"
+       y="7.9971237"
+       id="tspan52"><tspan
+         id="tspan53">and make it long enough, connect the two thread ends</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="3.6255646"
+       y="8.2471237"
+       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+       id="tspan54"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.091207653"
+         id="tspan55">and hang the kite somewhere.</tspan></tspan></text>
+  <image
+     href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgdmlld0JveD0iMCAwIDQ0MCAyMjkuMzk0ODkiCiAgIHZlcnNpb249IjEuMSIKICAgaWQ9InN2ZzE4IgogICBzb2RpcG9kaTpkb2NuYW1lPSJ6ZXBoeXJfbG9nby5zdmciCiAgIGlua3NjYXBlOnZlcnNpb249IjEuNC40IChkY2FmM2U3LCAyMDI2LTA1LTA1KSIKICAgeG1sbnM6aW5rc2NhcGU9Imh0dHA6Ly93d3cuaW5rc2NhcGUub3JnL25hbWVzcGFjZXMvaW5rc2NhcGUiCiAgIHhtbG5zOnNvZGlwb2RpPSJodHRwOi8vc29kaXBvZGkuc291cmNlZm9yZ2UubmV0L0RURC9zb2RpcG9kaS0wLmR0ZCIKICAgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHNvZGlwb2RpOm5hbWVkdmlldwogICAgIGlkPSJuYW1lZHZpZXcxOCIKICAgICBwYWdlY29sb3I9IiNmZmZmZmYiCiAgICAgYm9yZGVyY29sb3I9IiMwMDAwMDAiCiAgICAgYm9yZGVyb3BhY2l0eT0iMC4yNSIKICAgICBpbmtzY2FwZTpzaG93cGFnZXNoYWRvdz0iMiIKICAgICBpbmtzY2FwZTpwYWdlb3BhY2l0eT0iMC4wIgogICAgIGlua3NjYXBlOnBhZ2VjaGVja2VyYm9hcmQ9IjAiCiAgICAgaW5rc2NhcGU6ZGVza2NvbG9yPSIjZDFkMWQxIgogICAgIGlua3NjYXBlOnpvb209IjEuMjI3NDgyMyIKICAgICBpbmtzY2FwZTpjeD0iMjQyLjM2NjAxIgogICAgIGlua3NjYXBlOmN5PSIyMjAuNzc3MTEiCiAgICAgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIxNDQwIgogICAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9IjkwMyIKICAgICBpbmtzY2FwZTp3aW5kb3cteD0iMCIKICAgICBpbmtzY2FwZTp3aW5kb3cteT0iMjkiCiAgICAgaW5rc2NhcGU6d2luZG93LW1heGltaXplZD0iMCIKICAgICBpbmtzY2FwZTpjdXJyZW50LWxheWVyPSJDb2xvcmVkX1Bvc2l0aXZlIiAvPgogIDxkZWZzCiAgICAgaWQ9ImRlZnM2Ij4KICAgIDxzdHlsZQogICAgICAgaWQ9InN0eWxlMSI+LmNscy0xe2ZpbGw6Izc5MjlkMjt9LmNscy0ye2ZpbGw6Izk0NTRkYjt9LmNscy0ze2ZpbGw6I2FmN2ZlNDt9LmNscy00e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQpO30uY2xzLTV7ZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudC0yKTt9LmNscy02e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMyk7fS5jbHMtN3tmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTQpO30uY2xzLTh7ZmlsbDojMmQzMTM2O308L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICBpZD0ibGluZWFyLWdyYWRpZW50IgogICAgICAgeDE9IjE3My4yMjY2MiIKICAgICAgIHkxPSI4My4wNDExNSIKICAgICAgIHgyPSIyNjkuNjIwNzIiCiAgICAgICB5Mj0iODMuMDQxMTUiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wCiAgICAgICAgIG9mZnNldD0iMCIKICAgICAgICAgc3RvcC1jb2xvcj0iIzc5MjlkMiIKICAgICAgICAgaWQ9InN0b3AxIiAvPgogICAgICA8c3RvcAogICAgICAgICBvZmZzZXQ9IjEiCiAgICAgICAgIHN0b3AtY29sb3I9IiMwMDcwYzUiCiAgICAgICAgIGlkPSJzdG9wMiIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlkPSJsaW5lYXItZ3JhZGllbnQtMiIKICAgICAgIHgxPSIxNzkuNzg3MjciCiAgICAgICB5MT0iLTEuODc4ODQiCiAgICAgICB4Mj0iMTc4Ljk3OTkxIgogICAgICAgeTI9IjkzLjQwNzU3IgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcAogICAgICAgICBvZmZzZXQ9IjAiCiAgICAgICAgIHN0b3AtY29sb3I9IiMwMGFlZmYiCiAgICAgICAgIGlkPSJzdG9wMyIgLz4KICAgICAgPHN0b3AKICAgICAgICAgb2Zmc2V0PSIxIgogICAgICAgICBzdG9wLWNvbG9yPSIjOTQ1NGRiIgogICAgICAgICBpZD0ic3RvcDQiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICBpZD0ibGluZWFyLWdyYWRpZW50LTMiCiAgICAgICB4MT0iMjMyLjg0NTQ5IgogICAgICAgeTE9IjM3LjYzMjAyIgogICAgICAgeDI9IjIxMi4yNjU4MSIKICAgICAgIHkyPSIxLjk4Njk4IgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcAogICAgICAgICBvZmZzZXQ9IjAiCiAgICAgICAgIHN0b3AtY29sb3I9IiM2NmE5ZGMiCiAgICAgICAgIGlkPSJzdG9wNSIgLz4KICAgICAgPHN0b3AKICAgICAgICAgb2Zmc2V0PSIxIgogICAgICAgICBzdG9wLWNvbG9yPSIjYjFlNGZhIgogICAgICAgICBpZD0ic3RvcDYiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICBpZD0ibGluZWFyLWdyYWRpZW50LTQiCiAgICAgICB4MT0iMjM3LjQyMzIxIgogICAgICAgeTE9IjkuNzAyNjgiCiAgICAgICB4Mj0iMjQ5LjExNTg3IgogICAgICAgeTI9IjkwLjU3Njk0IgogICAgICAgeGxpbms6aHJlZj0iI2xpbmVhci1ncmFkaWVudC0yIiAvPgogIDwvZGVmcz4KICA8ZwogICAgIGlkPSJDb2xvcmVkX1Bvc2l0aXZlIgogICAgIGRhdGEtbmFtZT0iQ29sb3JlZCBQb3NpdGl2ZSI+CiAgICA8cG9seWdvbgogICAgICAgY2xhc3M9ImNscy0xIgogICAgICAgcG9pbnRzPSIxMzcuMTU0IDEyMS42MDEgMTA1LjMxIDEzNS4wNDYgMTMyLjM4NSAxNDguNzIgMTM3LjE1NCAxMjEuNjAxIgogICAgICAgaWQ9InBvbHlnb242IiAvPgogICAgPHBvbHlnb24KICAgICAgIGNsYXNzPSJjbHMtMiIKICAgICAgIHBvaW50cz0iNjguNDAxIDEzOS40MTkgMzQuNDM0IDEyNi43MDMgNDIuMzA5IDE1My40MDggNjguNDAxIDEzOS40MTkiCiAgICAgICBpZD0icG9seWdvbjciIC8+CiAgICA8cG9seWdvbgogICAgICAgY2xhc3M9ImNscy0zIgogICAgICAgcG9pbnRzPSI4NC41MDggMTE1LjUxOCAxMDUuMzEgMTM1LjA0NiA2OC40MDEgMTM5LjQxOSA4NC41MDggMTE1LjUxOCIKICAgICAgIGlkPSJwb2x5Z29uOCIgLz4KICAgIDxwb2x5Z29uCiAgICAgICBjbGFzcz0iY2xzLTMiCiAgICAgICBwb2ludHM9IjM4LjUzNSA5Ny4xNjcgMzQuNDM0IDEyNi43MDMgOC43NTkgMTAxLjA3NiAzOC41MzUgOTcuMTY3IgogICAgICAgaWQ9InBvbHlnb245IiAvPgogICAgPHBvbHlnb24KICAgICAgIGNsYXNzPSJjbHMtNCIKICAgICAgIHBvaW50cz0iMTM3LjE1NCAxMjEuNjAxIDIyMC45ODIgNDQuNDgyIDI1OC42NjYgOTQuNDE2IDEzNy4xNTQgMTIxLjYwMSIKICAgICAgIGlkPSJwb2x5Z29uMTAiIC8+CiAgICA8cG9seWdvbgogICAgICAgY2xhc3M9ImNscy01IgogICAgICAgcG9pbnRzPSIxMzcuMTU0IDEyMS42MDEgMTcyLjk1OSA4LjEzIDIyMC45ODIgNDQuNDgyIDEzNy4xNTQgMTIxLjYwMSIKICAgICAgIGlkPSJwb2x5Z29uMTEiIC8+CiAgICA8cG9seWdvbgogICAgICAgY2xhc3M9ImNscy02IgogICAgICAgcG9pbnRzPSIxNzIuOTU5IDguMTMgMjU4LjY2NiA4LjEzIDIyMC45ODIgNDQuNDgyIDE3Mi45NTkgOC4xMyIKICAgICAgIGlkPSJwb2x5Z29uMTIiIC8+CiAgICA8cG9seWdvbgogICAgICAgY2xhc3M9ImNscy03IgogICAgICAgcG9pbnRzPSIyNTguNjY2IDk0LjQxNiAyNTguNjY2IDguMTMgMjIwLjk4MiA0NC40ODIgMjU4LjY2NiA5NC40MTYiCiAgICAgICBpZD0icG9seWdvbjEzIiAvPgogIDwvZz4KPC9zdmc+Cg=="
+     x="-16.6327"
+     y="-1.9148"
+     width="9.3030"
+     height="4.8501"
+     preserveAspectRatio="xMidYMid meet"
+     id="image22" />
+  <text
+     xml:space="preserve"
+     style="font-size:0.303053px;writing-mode:lr-tb;direction:ltr;fill:none;stroke-width:0.0252545"
+     x="-5.6259618"
+     y="1.9864187"
+     id="text23"><tspan
+       sodipodi:role="line"
+       id="tspan22"
+       style="stroke-width:0.0252545"
+       x="-5.6259618"
+       y="1.9864187">Put Gkue</tspan></text>
+  <text
+     xml:space="preserve"
+     transform="matrix(0.02379979,-0.00844732,0.00844732,0.02379979,-20.618536,-1.6487644)"
+     id="text24"
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24);display:inline;fill:#050505;fill-opacity:1"><tspan
+       x="508.97266"
+       y="355.06125"
+       id="tspan1">put glue here</tspan></text>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0252545;stroke-dasharray:0.151527, 0.151527;stroke-dashoffset:0;stroke-opacity:1"
+     d="m -8.9174746,2.8100424 6.8861765,-7.8666583 6.772167,2.3257947 -1.3453125,7.0457897 -7.7070454,1.5049261 -2.8274365,2.5994174 -3.8307205,-0.6156513 -3.46589,1.0260858 -2.827437,-4.3095608 2.439804,-0.2736229 1.504927,1.983766 2.257388,-0.5016419 4.1955513,0.47884 6.72656303,-6.15651517 -4.74279713,2.71342687 z"
+     id="path28"
+     sodipodi:nodetypes="cccccccccccccccc" />
+  <text
+     xml:space="preserve"
+     transform="matrix(0.02525445,0,0,0.02525445,-19.041522,-6.53874)"
+     id="text46"
+     style="fill:none;text-orientation:auto;writing-mode:lr-tb;direction:ltr;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1;stroke-dasharray:6.0000107, 6.0000107;stroke-dashoffset:0;white-space:pre;shape-inside:url(#rect46)" />
+  <text
+     xml:space="preserve"
+     style="font-size:0.303053px;writing-mode:lr-tb;direction:ltr;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0252545;stroke-dasharray:0.151527, 0.151527;stroke-dashoffset:0;stroke-opacity:1"
+     x="-1.7120707"
+     y="7.5984435"
+     id="text47"><tspan
+       sodipodi:role="line"
+       id="tspan47"
+       style="stroke-width:0.0252545"
+       x="-1.7120707"
+       y="7.5984435" /></text>
+  <text
+     xml:space="preserve"
+     transform="matrix(0.02525445,0,0,0.02525445,-19.041522,-6.53874)"
+     id="text55"
+     style="fill:none;text-orientation:auto;writing-mode:lr-tb;direction:ltr;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1;stroke-dasharray:6.0000107, 6.0000107;stroke-dashoffset:0;white-space:pre;shape-inside:url(#rect55)" />
+</svg>
